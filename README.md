@@ -8,9 +8,9 @@ The game tracks the number of incorrect guesses and displays a hangman graphic.
 Players win by guessing the word correctly or lose if they run out of guesses.
 
 ## Files
-index.html: The main HTML file that contains the structure of the game.
-styles.css: The CSS file that styles the game and handles the visual presentation.
-script.js: The JavaScript file that contains the game logic and handles user interactions.
+* index.html: The main HTML file that contains the structure of the game.
+* styles.css: The CSS file that styles the game and handles the visual presentation.
+* script.js: The JavaScript file that contains the game logic and handles user interactions.
 
 ## Example
  ![2](https://github.com/user-attachments/assets/4b887480-5083-43ef-909b-867293ca826c)
