@@ -13,5 +13,5 @@ styles.css: The CSS file that styles the game and handles the visual presentatio
 script.js: The JavaScript file that contains the game logic and handles user interactions.
 
 ## Example
- ![1](https://github.com/user-attachments/assets/e8c49c24-a2c7-4398-b674-92c270b2afd2)
  ![2](https://github.com/user-attachments/assets/4b887480-5083-43ef-909b-867293ca826c)
+ ![1](https://github.com/user-attachments/assets/e8c49c24-a2c7-4398-b674-92c270b2afd2)
